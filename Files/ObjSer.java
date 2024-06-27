@@ -35,7 +35,6 @@ public static void main(String[] args) throws IOException,ClassNotFoundException
     while (i.hasNext()) {
         ObjSer o=(ObjSer)i.next();
         System.out.println(o.i+" "+o.s);
-        
     }
 }
 }
